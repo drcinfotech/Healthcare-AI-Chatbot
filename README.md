@@ -1,4 +1,4 @@
-# Healthcare AI Chatbot
+# DRC Healthcare AI Chatbot
 
 > A full-stack conversational AI assistant for **healthcare, medical, and pharmacy services** — Python FastAPI backend + React frontend.
 
@@ -10,7 +10,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-A production-shaped demo of an AI chatbot built specifically for healthcare. The bot, *Aira*, can book doctor appointments, look up medications, surface lab results, manage prescriptions, locate nearby pharmacies, handle vaccine schedules, and — critically — **detect medical emergencies and mental-health crises and route users to hotlines immediately**. Everything runs locally with **zero external API keys**.
+A production-shaped demo of an AI chatbot built specifically for healthcare. The bot, *DRC*, can book doctor appointments, look up medications, surface lab results, manage prescriptions, locate nearby pharmacies, handle vaccine schedules, and — critically — **detect medical emergencies and mental-health crises and route users to hotlines immediately**. Everything runs locally with **zero external API keys**.
 
 ## 📸 Preview
 
@@ -339,7 +339,7 @@ MIT — see [LICENSE](LICENSE).
 
 - **This is a demo, not medical software.** It is not certified, not regulated, not validated for clinical use, and not a substitute for professional medical advice, diagnosis, or treatment.
 - All medication names, doctor names, pharmacy names, lab values, prescription IDs, and tracking numbers in this project are **entirely fictional**. Any resemblance to real entities is coincidental.
-- *Aira*, the bot persona, is fictional.
+- *DRC*, the bot persona, is fictional.
 - Emergency hotline numbers are for India; verify and adapt for your region.
 - Built as a teaching demo for safe-by-design healthcare conversational AI architecture.
 
