@@ -1,0 +1,740 @@
+[
+  {
+    "id": "m001",
+    "name": "Lumera 500",
+    "category": "pain_relief",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Mild to moderate pain, fever, headache",
+    "common_dosing": "1 tablet every 6 hours as needed, max 4/day",
+    "side_effects": [
+      "nausea",
+      "stomach upset",
+      "drowsiness"
+    ],
+    "warnings": [
+      "Avoid alcohol",
+      "Not for those with liver conditions without doctor approval"
+    ],
+    "interactions": [
+      "blood thinners",
+      "certain antidepressants"
+    ],
+    "price": 45,
+    "currency": "INR",
+    "stock": 240,
+    "image": "\ud83d\udc8a",
+    "category_label": "Pain Relief"
+  },
+  {
+    "id": "m002",
+    "name": "Bronclear Syrup",
+    "category": "cough_cold",
+    "type": "syrup",
+    "form": "OTC",
+    "uses": "Dry and productive cough relief",
+    "common_dosing": "10 ml three times a day after food",
+    "side_effects": [
+      "drowsiness",
+      "mild dizziness"
+    ],
+    "warnings": [
+      "Do not drive after taking",
+      "Not for children under 6 without doctor approval"
+    ],
+    "interactions": [
+      "sedatives",
+      "alcohol"
+    ],
+    "price": 120,
+    "currency": "INR",
+    "stock": 88,
+    "image": "\ud83e\uddf4",
+    "category_label": "Cough & Cold"
+  },
+  {
+    "id": "m003",
+    "name": "Histabloc 10",
+    "category": "allergy",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Seasonal allergies, hay fever, hives",
+    "common_dosing": "1 tablet daily",
+    "side_effects": [
+      "mild drowsiness",
+      "dry mouth"
+    ],
+    "warnings": [
+      "May cause drowsiness in some people"
+    ],
+    "interactions": [
+      "sedatives"
+    ],
+    "price": 65,
+    "currency": "INR",
+    "stock": 156,
+    "image": "\ud83c\udf3c",
+    "category_label": "Allergy"
+  },
+  {
+    "id": "m004",
+    "name": "Acidrest Plus",
+    "category": "digestive",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Acid reflux, heartburn, indigestion",
+    "common_dosing": "1 tablet before meals, up to 3/day",
+    "side_effects": [
+      "mild constipation",
+      "diarrhea"
+    ],
+    "warnings": [
+      "Long-term use needs doctor supervision"
+    ],
+    "interactions": [
+      "certain antibiotics",
+      "iron supplements"
+    ],
+    "price": 80,
+    "currency": "INR",
+    "stock": 134,
+    "image": "\ud83e\udee7",
+    "category_label": "Digestive"
+  },
+  {
+    "id": "m005",
+    "name": "Cipraxin 250",
+    "category": "antibiotic",
+    "type": "tablet",
+    "form": "Prescription",
+    "uses": "Bacterial infections (UTI, respiratory, skin)",
+    "common_dosing": "As prescribed by doctor - typically twice daily",
+    "side_effects": [
+      "nausea",
+      "diarrhea",
+      "rash"
+    ],
+    "warnings": [
+      "Complete full course even if feeling better",
+      "Take with water"
+    ],
+    "interactions": [
+      "dairy products",
+      "antacids",
+      "blood thinners"
+    ],
+    "price": 180,
+    "currency": "INR",
+    "stock": 0,
+    "image": "\ud83d\udc89",
+    "category_label": "Antibiotic"
+  },
+  {
+    "id": "m006",
+    "name": "VitaPure D3",
+    "category": "vitamin",
+    "type": "capsule",
+    "form": "OTC",
+    "uses": "Vitamin D supplementation, bone health",
+    "common_dosing": "1 capsule weekly or as directed",
+    "side_effects": [
+      "rare at recommended doses"
+    ],
+    "warnings": [
+      "Get vitamin D levels checked before starting"
+    ],
+    "interactions": [
+      "certain heart medications"
+    ],
+    "price": 240,
+    "currency": "INR",
+    "stock": 76,
+    "image": "\u2600\ufe0f",
+    "category_label": "Vitamin"
+  },
+  {
+    "id": "m007",
+    "name": "Glycostat M",
+    "category": "diabetes",
+    "type": "tablet",
+    "form": "Prescription",
+    "uses": "Type 2 diabetes blood sugar management",
+    "common_dosing": "As prescribed - typically with meals",
+    "side_effects": [
+      "mild nausea initially",
+      "stomach upset"
+    ],
+    "warnings": [
+      "Monitor blood sugar regularly",
+      "Avoid alcohol"
+    ],
+    "interactions": [
+      "alcohol",
+      "certain heart medications"
+    ],
+    "price": 95,
+    "currency": "INR",
+    "stock": 198,
+    "image": "\ud83e\ude78",
+    "category_label": "Diabetes"
+  },
+  {
+    "id": "m008",
+    "name": "Lipidcare 10",
+    "category": "cholesterol",
+    "type": "tablet",
+    "form": "Prescription",
+    "uses": "High cholesterol management",
+    "common_dosing": "1 tablet once daily, preferably evening",
+    "side_effects": [
+      "muscle aches",
+      "mild stomach issues"
+    ],
+    "warnings": [
+      "Report any unexplained muscle pain",
+      "Liver function checks needed"
+    ],
+    "interactions": [
+      "grapefruit juice",
+      "certain antibiotics"
+    ],
+    "price": 160,
+    "currency": "INR",
+    "stock": 88,
+    "image": "\u2764\ufe0f",
+    "category_label": "Cholesterol"
+  },
+  {
+    "id": "m009",
+    "name": "Cardiotone 5",
+    "category": "blood_pressure",
+    "type": "tablet",
+    "form": "Prescription",
+    "uses": "High blood pressure management",
+    "common_dosing": "1 tablet once daily, same time each day",
+    "side_effects": [
+      "mild dizziness initially",
+      "dry cough"
+    ],
+    "warnings": [
+      "Do not stop suddenly",
+      "Monitor BP regularly"
+    ],
+    "interactions": [
+      "potassium supplements",
+      "NSAIDs"
+    ],
+    "price": 110,
+    "currency": "INR",
+    "stock": 142,
+    "image": "\ud83d\udc97",
+    "category_label": "Blood Pressure"
+  },
+  {
+    "id": "m010",
+    "name": "Calmara 0.5",
+    "category": "anxiety",
+    "type": "tablet",
+    "form": "Prescription",
+    "uses": "Anxiety management (short-term use)",
+    "common_dosing": "As prescribed - typically as needed",
+    "side_effects": [
+      "drowsiness",
+      "dizziness"
+    ],
+    "warnings": [
+      "Do not drive",
+      "Not for long-term use without doctor review",
+      "Avoid alcohol"
+    ],
+    "interactions": [
+      "alcohol",
+      "other sedatives",
+      "opioids"
+    ],
+    "price": 75,
+    "currency": "INR",
+    "stock": 0,
+    "image": "\ud83c\udf19",
+    "category_label": "Anxiety"
+  },
+  {
+    "id": "m011",
+    "name": "Restora Sleep",
+    "category": "sleep",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Occasional sleeplessness",
+    "common_dosing": "1 tablet 30 mins before bed",
+    "side_effects": [
+      "morning grogginess"
+    ],
+    "warnings": [
+      "Not for more than 7 consecutive days without doctor"
+    ],
+    "interactions": [
+      "alcohol",
+      "other sedatives"
+    ],
+    "price": 95,
+    "currency": "INR",
+    "stock": 64,
+    "image": "\ud83d\ude34",
+    "category_label": "Sleep Aid"
+  },
+  {
+    "id": "m012",
+    "name": "Clearvue Drops",
+    "category": "eye_care",
+    "type": "drops",
+    "form": "OTC",
+    "uses": "Dry, irritated eyes, redness relief",
+    "common_dosing": "1-2 drops in affected eye, up to 4 times daily",
+    "side_effects": [
+      "brief stinging"
+    ],
+    "warnings": [
+      "Discard 4 weeks after opening"
+    ],
+    "interactions": [
+      "other eye drops - wait 5 min between"
+    ],
+    "price": 145,
+    "currency": "INR",
+    "stock": 92,
+    "image": "\ud83d\udc41\ufe0f",
+    "category_label": "Eye Care"
+  },
+  {
+    "id": "m013",
+    "name": "Thyrolex 50",
+    "category": "thyroid",
+    "type": "tablet",
+    "form": "Prescription",
+    "uses": "Hypothyroidism management",
+    "common_dosing": "1 tablet on empty stomach, 30 min before food",
+    "side_effects": [
+      "rare at correct dose"
+    ],
+    "warnings": [
+      "Regular thyroid testing needed",
+      "Don't take with calcium/iron"
+    ],
+    "interactions": [
+      "calcium",
+      "iron",
+      "antacids"
+    ],
+    "price": 85,
+    "currency": "INR",
+    "stock": 158,
+    "image": "\ud83e\udd8b",
+    "category_label": "Thyroid"
+  },
+  {
+    "id": "m014",
+    "name": "Inhalex Plus",
+    "category": "asthma",
+    "type": "inhaler",
+    "form": "Prescription",
+    "uses": "Asthma symptom relief and prevention",
+    "common_dosing": "2 puffs twice daily, rinse mouth after",
+    "side_effects": [
+      "mild throat irritation"
+    ],
+    "warnings": [
+      "Carry rescue inhaler separately",
+      "Rinse mouth after use"
+    ],
+    "interactions": [
+      "certain heart medications"
+    ],
+    "price": 380,
+    "currency": "INR",
+    "stock": 42,
+    "image": "\ud83e\udec1",
+    "category_label": "Asthma"
+  },
+  {
+    "id": "m015",
+    "name": "Soothelix 1%",
+    "category": "skin",
+    "type": "cream",
+    "form": "OTC",
+    "uses": "Minor skin irritation, eczema, insect bites",
+    "common_dosing": "Apply thin layer 1-2 times daily for max 7 days",
+    "side_effects": [
+      "skin thinning with prolonged use"
+    ],
+    "warnings": [
+      "Not for face without doctor approval",
+      "Not for broken skin"
+    ],
+    "interactions": [
+      "none significant"
+    ],
+    "price": 60,
+    "currency": "INR",
+    "stock": 178,
+    "image": "\ud83e\uddf4",
+    "category_label": "Skin Care"
+  },
+  {
+    "id": "m016",
+    "name": "Probion Daily",
+    "category": "digestive",
+    "type": "capsule",
+    "form": "OTC",
+    "uses": "Digestive health, post-antibiotic gut recovery",
+    "common_dosing": "1 capsule daily with food",
+    "side_effects": [
+      "mild bloating initially"
+    ],
+    "warnings": [
+      "Keep refrigerated"
+    ],
+    "interactions": [
+      "take 2 hours apart from antibiotics"
+    ],
+    "price": 320,
+    "currency": "INR",
+    "stock": 56,
+    "image": "\ud83e\udda0",
+    "category_label": "Probiotic"
+  },
+  {
+    "id": "m017",
+    "name": "OmegaPure 1000",
+    "category": "supplement",
+    "type": "softgel",
+    "form": "OTC",
+    "uses": "Heart health, brain function, joint support",
+    "common_dosing": "1 softgel daily with meal",
+    "side_effects": [
+      "fishy aftertaste"
+    ],
+    "warnings": [
+      "Tell doctor if on blood thinners"
+    ],
+    "interactions": [
+      "blood thinners at high doses"
+    ],
+    "price": 450,
+    "currency": "INR",
+    "stock": 88,
+    "image": "\ud83d\udc1f",
+    "category_label": "Supplement"
+  },
+  {
+    "id": "m018",
+    "name": "FerroBoost 60",
+    "category": "supplement",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Iron deficiency, anemia support",
+    "common_dosing": "1 tablet daily with vitamin C, away from tea/coffee",
+    "side_effects": [
+      "dark stools (normal)",
+      "constipation"
+    ],
+    "warnings": [
+      "Don't exceed dose - iron overdose serious"
+    ],
+    "interactions": [
+      "calcium",
+      "tea/coffee within 1 hour"
+    ],
+    "price": 110,
+    "currency": "INR",
+    "stock": 134,
+    "image": "\u2699\ufe0f",
+    "category_label": "Iron Supplement"
+  },
+  {
+    "id": "m019",
+    "name": "Migrelief 50",
+    "category": "pain_relief",
+    "type": "tablet",
+    "form": "Prescription",
+    "uses": "Acute migraine treatment",
+    "common_dosing": "1 tablet at onset, may repeat after 2 hours if needed",
+    "side_effects": [
+      "drowsiness",
+      "warmth sensation"
+    ],
+    "warnings": [
+      "Max 2 tablets per 24 hours"
+    ],
+    "interactions": [
+      "certain antidepressants",
+      "ergot medications"
+    ],
+    "price": 220,
+    "currency": "INR",
+    "stock": 38,
+    "image": "\ud83e\udd15",
+    "category_label": "Migraine"
+  },
+  {
+    "id": "m020",
+    "name": "Calcimax D",
+    "category": "supplement",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Calcium and vitamin D supplementation, bone health",
+    "common_dosing": "1-2 tablets daily with food",
+    "side_effects": [
+      "constipation",
+      "rare kidney stones at high dose"
+    ],
+    "warnings": [
+      "Don't exceed recommended dose"
+    ],
+    "interactions": [
+      "thyroid medication - take 4 hours apart"
+    ],
+    "price": 175,
+    "currency": "INR",
+    "stock": 116,
+    "image": "\ud83e\uddb4",
+    "category_label": "Calcium"
+  },
+  {
+    "id": "m021",
+    "name": "MenstroEase",
+    "category": "womens_health",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Menstrual cramp relief, PMS symptoms",
+    "common_dosing": "1 tablet every 6 hours during period, max 4/day",
+    "side_effects": [
+      "mild stomach upset"
+    ],
+    "warnings": [
+      "Not for ulcer patients",
+      "Take with food"
+    ],
+    "interactions": [
+      "blood thinners",
+      "other NSAIDs"
+    ],
+    "price": 85,
+    "currency": "INR",
+    "stock": 92,
+    "image": "\ud83c\udf38",
+    "category_label": "Women's Health"
+  },
+  {
+    "id": "m022",
+    "name": "PediCool Drops",
+    "category": "pediatric",
+    "type": "drops",
+    "form": "OTC",
+    "uses": "Fever and pain in children",
+    "common_dosing": "Per weight - consult pediatrician for dose",
+    "side_effects": [
+      "rare allergic reactions"
+    ],
+    "warnings": [
+      "Use exact dropper provided",
+      "Pediatric advice required"
+    ],
+    "interactions": [
+      "other pediatric pain meds"
+    ],
+    "price": 95,
+    "currency": "INR",
+    "stock": 104,
+    "image": "\ud83c\udf7c",
+    "category_label": "Pediatric"
+  },
+  {
+    "id": "m023",
+    "name": "VitaCmax 500",
+    "category": "vitamin",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Vitamin C, immunity support",
+    "common_dosing": "1 tablet daily",
+    "side_effects": [
+      "mild stomach upset at high doses"
+    ],
+    "warnings": [
+      "Mega doses not recommended"
+    ],
+    "interactions": [
+      "aluminum-based antacids"
+    ],
+    "price": 60,
+    "currency": "INR",
+    "stock": 218,
+    "image": "\ud83c\udf4a",
+    "category_label": "Vitamin C"
+  },
+  {
+    "id": "m024",
+    "name": "Zincara 50",
+    "category": "vitamin",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Zinc supplementation, immunity, skin health",
+    "common_dosing": "1 tablet daily with food",
+    "side_effects": [
+      "nausea on empty stomach",
+      "metallic taste"
+    ],
+    "warnings": [
+      "Don't exceed 40mg/day long-term"
+    ],
+    "interactions": [
+      "certain antibiotics",
+      "copper absorption"
+    ],
+    "price": 145,
+    "currency": "INR",
+    "stock": 78,
+    "image": "\ud83e\udd47",
+    "category_label": "Zinc"
+  },
+  {
+    "id": "m025",
+    "name": "Pain Patch Forte",
+    "category": "pain_relief",
+    "type": "patch",
+    "form": "OTC",
+    "uses": "Back pain, muscle pain, joint pain relief",
+    "common_dosing": "Apply 1 patch to affected area, max 8 hours",
+    "side_effects": [
+      "skin redness at site"
+    ],
+    "warnings": [
+      "Not on broken skin",
+      "Not for children under 12"
+    ],
+    "interactions": [
+      "none significant"
+    ],
+    "price": 70,
+    "currency": "INR",
+    "stock": 156,
+    "image": "\ud83e\ude79",
+    "category_label": "Topical Pain"
+  },
+  {
+    "id": "m026",
+    "name": "MultiPlus Daily",
+    "category": "supplement",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "Daily multivitamin and mineral support",
+    "common_dosing": "1 tablet daily with breakfast",
+    "side_effects": [
+      "mild nausea if taken without food"
+    ],
+    "warnings": [
+      "Don't take with other vitamin supplements"
+    ],
+    "interactions": [
+      "certain medications - check with doctor"
+    ],
+    "price": 285,
+    "currency": "INR",
+    "stock": 124,
+    "image": "\ud83c\udf08",
+    "category_label": "Multivitamin"
+  },
+  {
+    "id": "m027",
+    "name": "ORS Plus Pack",
+    "category": "hydration",
+    "type": "powder",
+    "form": "OTC",
+    "uses": "Dehydration, diarrhea recovery, heat exhaustion",
+    "common_dosing": "1 sachet in 200ml water, sip gradually",
+    "side_effects": [
+      "rare at correct dilution"
+    ],
+    "warnings": [
+      "Mix exactly as directed",
+      "See doctor if symptoms persist 24h"
+    ],
+    "interactions": [
+      "none"
+    ],
+    "price": 25,
+    "currency": "INR",
+    "stock": 412,
+    "image": "\ud83d\udca7",
+    "category_label": "Hydration"
+  },
+  {
+    "id": "m028",
+    "name": "Throatcalm Lozenge",
+    "category": "cough_cold",
+    "type": "lozenge",
+    "form": "OTC",
+    "uses": "Sore throat relief",
+    "common_dosing": "1 lozenge every 2-3 hours, max 8/day",
+    "side_effects": [
+      "mild numbing sensation"
+    ],
+    "warnings": [
+      "Not for children under 6"
+    ],
+    "interactions": [
+      "none significant"
+    ],
+    "price": 55,
+    "currency": "INR",
+    "stock": 198,
+    "image": "\ud83c\udf6c",
+    "category_label": "Sore Throat"
+  },
+  {
+    "id": "m029",
+    "name": "B-Complex Pro",
+    "category": "vitamin",
+    "type": "tablet",
+    "form": "OTC",
+    "uses": "B vitamin complex, energy, nerve health",
+    "common_dosing": "1 tablet daily with food",
+    "side_effects": [
+      "bright yellow urine (normal - excess B2)"
+    ],
+    "warnings": [
+      "Take with food for absorption"
+    ],
+    "interactions": [
+      "certain seizure medications"
+    ],
+    "price": 180,
+    "currency": "INR",
+    "stock": 96,
+    "image": "\u26a1",
+    "category_label": "B Vitamins"
+  },
+  {
+    "id": "m030",
+    "name": "DermClear Wash",
+    "category": "skin",
+    "type": "wash",
+    "form": "OTC",
+    "uses": "Acne-prone skin, gentle daily cleansing",
+    "common_dosing": "Wash affected area 1-2 times daily",
+    "side_effects": [
+      "mild dryness initially"
+    ],
+    "warnings": [
+      "Avoid eyes",
+      "Patch test first"
+    ],
+    "interactions": [
+      "other acne products - use one at a time"
+    ],
+    "price": 210,
+    "currency": "INR",
+    "stock": 88,
+    "image": "\ud83e\uddfc",
+    "category_label": "Skincare"
+  }
+]

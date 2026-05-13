@@ -1,0 +1,307 @@
+[
+  {
+    "id": "d001",
+    "name": "Dr. Anika Sharma",
+    "specialty": "Cardiology",
+    "specialty_key": "cardiology",
+    "qualifications": "MD, DM Cardiology",
+    "experience_years": 14,
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati"
+    ],
+    "clinic": "Cordis Cardiology Center",
+    "city": "Surat",
+    "rating": 4.8,
+    "reviews": 412,
+    "next_slot": "Today, 4:30 PM",
+    "consultation_fee": 800,
+    "currency": "INR",
+    "image": "\ud83e\ude7a",
+    "available_today": true,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d002",
+    "name": "Dr. Marcus Chen",
+    "specialty": "Pediatrics",
+    "specialty_key": "pediatrics",
+    "qualifications": "MBBS, MD Pediatrics",
+    "experience_years": 11,
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "clinic": "Little Hearts Children's Clinic",
+    "city": "Surat",
+    "rating": 4.9,
+    "reviews": 628,
+    "next_slot": "Tomorrow, 10:00 AM",
+    "consultation_fee": 600,
+    "currency": "INR",
+    "image": "\ud83d\udc76",
+    "available_today": false,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d003",
+    "name": "Dr. Priya Nair",
+    "specialty": "Dermatology",
+    "specialty_key": "dermatology",
+    "qualifications": "MD Dermatology",
+    "experience_years": 9,
+    "languages": [
+      "English",
+      "Hindi",
+      "Malayalam"
+    ],
+    "clinic": "Lumin Skin & Hair Studio",
+    "city": "Surat",
+    "rating": 4.7,
+    "reviews": 384,
+    "next_slot": "Today, 6:00 PM",
+    "consultation_fee": 700,
+    "currency": "INR",
+    "image": "\ud83e\uddf4",
+    "available_today": true,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d004",
+    "name": "Dr. Ethan Patel",
+    "specialty": "Orthopedics",
+    "specialty_key": "orthopedics",
+    "qualifications": "MS Orthopedics",
+    "experience_years": 18,
+    "languages": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "clinic": "BoneCare Orthopedic Hospital",
+    "city": "Surat",
+    "rating": 4.8,
+    "reviews": 514,
+    "next_slot": "Tomorrow, 2:00 PM",
+    "consultation_fee": 900,
+    "currency": "INR",
+    "image": "\ud83e\uddb4",
+    "available_today": false,
+    "consultation_modes": [
+      "In-person"
+    ]
+  },
+  {
+    "id": "d005",
+    "name": "Dr. Sara Lee",
+    "specialty": "General Medicine",
+    "specialty_key": "general",
+    "qualifications": "MBBS, MD Internal Medicine",
+    "experience_years": 8,
+    "languages": [
+      "English",
+      "Korean",
+      "Hindi"
+    ],
+    "clinic": "Steadcare Family Practice",
+    "city": "Surat",
+    "rating": 4.6,
+    "reviews": 821,
+    "next_slot": "Today, 5:15 PM",
+    "consultation_fee": 500,
+    "currency": "INR",
+    "image": "\ud83d\udc69\u200d\u2695\ufe0f",
+    "available_today": true,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d006",
+    "name": "Dr. Raj Kumar",
+    "specialty": "Psychiatry",
+    "specialty_key": "psychiatry",
+    "qualifications": "MD Psychiatry",
+    "experience_years": 12,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "clinic": "Mindspace Mental Health",
+    "city": "Surat",
+    "rating": 4.9,
+    "reviews": 297,
+    "next_slot": "Tomorrow, 11:30 AM",
+    "consultation_fee": 1200,
+    "currency": "INR",
+    "image": "\ud83e\udde0",
+    "available_today": false,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d007",
+    "name": "Dr. Maya Iyer",
+    "specialty": "Gynecology",
+    "specialty_key": "gynecology",
+    "qualifications": "MS Obstetrics & Gynecology",
+    "experience_years": 15,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "clinic": "Marigold Women's Health Center",
+    "city": "Surat",
+    "rating": 4.8,
+    "reviews": 672,
+    "next_slot": "Today, 7:00 PM",
+    "consultation_fee": 850,
+    "currency": "INR",
+    "image": "\ud83c\udf38",
+    "available_today": true,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d008",
+    "name": "Dr. Noah Williams",
+    "specialty": "ENT",
+    "specialty_key": "ent",
+    "qualifications": "MS ENT",
+    "experience_years": 10,
+    "languages": [
+      "English"
+    ],
+    "clinic": "Clearway ENT Clinic",
+    "city": "Surat",
+    "rating": 4.5,
+    "reviews": 218,
+    "next_slot": "Tomorrow, 9:00 AM",
+    "consultation_fee": 650,
+    "currency": "INR",
+    "image": "\ud83d\udc42",
+    "available_today": false,
+    "consultation_modes": [
+      "In-person"
+    ]
+  },
+  {
+    "id": "d009",
+    "name": "Dr. Lina Costa",
+    "specialty": "Ophthalmology",
+    "specialty_key": "ophthalmology",
+    "qualifications": "MS Ophthalmology",
+    "experience_years": 13,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Hindi"
+    ],
+    "clinic": "Brightview Eye Hospital",
+    "city": "Surat",
+    "rating": 4.7,
+    "reviews": 489,
+    "next_slot": "Today, 3:30 PM",
+    "consultation_fee": 750,
+    "currency": "INR",
+    "image": "\ud83d\udc41\ufe0f",
+    "available_today": true,
+    "consultation_modes": [
+      "In-person"
+    ]
+  },
+  {
+    "id": "d010",
+    "name": "Dr. Karim Hassan",
+    "specialty": "Endocrinology",
+    "specialty_key": "endocrinology",
+    "qualifications": "MD, DM Endocrinology",
+    "experience_years": 16,
+    "languages": [
+      "English",
+      "Arabic",
+      "Hindi"
+    ],
+    "clinic": "Metaclinic Endocrine Care",
+    "city": "Surat",
+    "rating": 4.9,
+    "reviews": 342,
+    "next_slot": "Day after tomorrow, 11:00 AM",
+    "consultation_fee": 1100,
+    "currency": "INR",
+    "image": "\ud83e\udd8b",
+    "available_today": false,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d011",
+    "name": "Dr. Tessa Brooks",
+    "specialty": "Neurology",
+    "specialty_key": "neurology",
+    "qualifications": "MD, DM Neurology",
+    "experience_years": 17,
+    "languages": [
+      "English"
+    ],
+    "clinic": "Cerebra Neurology Center",
+    "city": "Surat",
+    "rating": 4.8,
+    "reviews": 256,
+    "next_slot": "Day after tomorrow, 3:00 PM",
+    "consultation_fee": 1500,
+    "currency": "INR",
+    "image": "\ud83e\udde0",
+    "available_today": false,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  },
+  {
+    "id": "d012",
+    "name": "Dr. Vikram Joshi",
+    "specialty": "Gastroenterology",
+    "specialty_key": "gastroenterology",
+    "qualifications": "MD, DM Gastroenterology",
+    "experience_years": 13,
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati",
+      "Marathi"
+    ],
+    "clinic": "Digestive Health Institute",
+    "city": "Surat",
+    "rating": 4.7,
+    "reviews": 391,
+    "next_slot": "Tomorrow, 4:00 PM",
+    "consultation_fee": 1000,
+    "currency": "INR",
+    "image": "\ud83e\udec3",
+    "available_today": false,
+    "consultation_modes": [
+      "In-person",
+      "Video"
+    ]
+  }
+]
